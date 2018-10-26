@@ -13,7 +13,7 @@
 
         <dependencies>
             <dependency>
-                <artifactId>j-conductor</artifactId>
+                <artifactId>jconductor-core</artifactId>
                 <groupId>org.stacktrace.yo</groupId>
             </dependency>
             <dependency>
